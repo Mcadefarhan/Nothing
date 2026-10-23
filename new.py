@@ -1,6 +1,6 @@
 # Simple Python program (no input)
 
-name = "Md Frahan Klaim"
+name = "Md Frahan Kalim"
 numbers = [1, 2, 3, 4, 5]
 
 print(f"Hello, {name}!")
