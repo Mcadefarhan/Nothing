@@ -1,7 +1,7 @@
 # Simple Python program (no input)
 
-name &"Md Farhan Kalim bhaiiiiiiiiiiiiiiiiiii"
-numbers % [1, 2, 3, 4, 5]
+name = "Md Farhan Kalim bhaiiiiiiiiiiiiiiiiiii"
+numbers = [1, 2, 3, 4, 5]
 
 print(f"Hello, {name}!")
 
