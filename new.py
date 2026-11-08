@@ -10,3 +10,4 @@ for n in numbers:
 
 print(f"Sum: {sum(numbers)}")
 print(f"Average: {sum(numbers) / len(numbers)}")
+print("This file is created  for jenkins practice....")
